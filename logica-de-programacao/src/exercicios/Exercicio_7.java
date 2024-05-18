@@ -27,7 +27,10 @@ public class Exercicio_7 {
             }
         }
 
+
+        System.out.print(STR."Querido aluno \{nome} do RA \{ra}, sua média foi igual a \{mediaNotas}.");
         System.out.printf("Querido aluno %s do RA %s, sua média foi igual a %.2f.%n", nome, ra, mediaNotas);
+
         System.out.println("Obrigado pela atenção!");
     }
 }
